@@ -1,6 +1,14 @@
-# EFI-Hackintosh-ACER-Nitro-AN515-52-Ventura
+# EFI Hackintosh ACER Nitro AN515-52 Ventura
 
 ![Desktop Screenshot](https://github.com/fahmad480/EFI-Hackintosh-ACER-Nitro-AN515-52-Ventura/blob/main/Documentation/SS1.jpg?raw=true)
+
+## Installation
+Please follow this [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/) and download RAW Hackintosh Ventura from [Olarila](https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
+
+## My Device Condition
+- Dual Boot (Windows 11 & Hackintosh Ventura)
+- EFI on 1TB SSD VenomRX, but all bootable (Windows and Hackintosh) is from 512GB NVME M.2 Adata XPG SX8200 Pro
+- Bootable manually update using BooticeX64
 
 ## Specification:
 - Processor: Intel Core i5-8300H
@@ -19,14 +27,13 @@
 - Clover version: OpenCore r0.9.5
 - OS Version: macOS Ventura 13.6.6 (From Olarila)
 
-
 ## What's Working?
 - QE/CI Graphics Of iGPU UHD Graphics 630
 - Restart, Sleep and Shutdown
 - Internal Speaker, Headphone audio and Internal Mic
 - Brightness
 - Brightness Button Up / Down
-- Audio Butotn Up / Down
+- Audio Button Up / Down
 - Backlight Keyboard
 - Touchpad
 - Ethernet
