@@ -21,7 +21,7 @@ Please follow this [Dortania Guide](https://dortania.github.io/OpenCore-Install-
 - USB: Intel Chipset
 - Audio Codec: Realtek ALC255
 - Touchpad: ELAN ELAN0504 I2C Interface
-- Display Size: 15 Inch
+- Display Size: 15.6 Inch
 - Monitor Resolution: Full HD 1920 x 1080
 - Boot Mode: UEFI
 - Clover version: OpenCore r0.9.5
